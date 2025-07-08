@@ -66,6 +66,9 @@ El DAG ejecuta una pipeline con las siguientes tareas:
 * Limpieza de datos: eliminación de nulos, duplicados
 * Cálculo de KPIs: como pacientes por país, medicamentos más usados, duración promedio de ensayos, etc.
 
+![workflow](images/workflow.png)
+
+
 # El resultado se guarda en output/kpis.csv
 
 KPIs Calculados:
