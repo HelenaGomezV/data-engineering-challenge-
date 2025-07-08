@@ -1,0 +1,2 @@
+patients_per_country,avg_age_per_diagnosis,most_used_medications,avg_trial_duration_days,avg_days_between_trials,percent_incomplete_trials,percent_multi_trial_patients
+"{'ARG': 120, 'Germany': 93, 'MEX': 94, 'Spain': 79, 'UK': 88}","{'Cardiovascular': 52.8, 'Diabetes': 44.3, 'Hypertension': 49.3}","{'Drug_E': 243, 'Drug_C': 124, 'Drug_D': 112, 'Drug_A': 72, 'Drug_B': 62}",73.41,21.89,0.0,25.53
